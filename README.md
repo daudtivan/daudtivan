@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daudtivan
-- 👀 I’m interested in Design Thinking & Agile Methods
+- 👀 I’m interested in simplifying business operations with Design Thinking & Agile Methods
 - 🌱 I’m currently learning NextCloud
 - 💞️ I’m looking to collaborate on ways to use tech to do better business
 - 📫 Drop me an email to contact me. I'll reply 1st opportunity.
